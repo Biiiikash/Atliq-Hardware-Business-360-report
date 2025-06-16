@@ -1,6 +1,7 @@
 # 📊 Business Insights 360 — AtliQ Hardware
 
 [🔗 **Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNjZjYWI4ZWUtNWFiMC00ZWFkLTk5MjctN2Q1NGM2NWJlNDE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+[📄 **View Dashboard (PDF Version)**](https://github.com/Biiiikash/Atliq-Hardware-Business-360-report/blob/main/Business%20Insight%20360.pdf)
 
 ---
 
